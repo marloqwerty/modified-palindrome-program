@@ -6,6 +6,11 @@ This is a basic vanilla js project.
 
 - I learned about stacks and heaps.
 
+#files:
+|---|---|
+|fig|[simple-palindrome.fig](https://github.com/marloqwerty/modified-palindrome-program/blob/main/simple-palindrome.fig)|
+
+
 ## Screenshots:
 
 - Desktop-view:
