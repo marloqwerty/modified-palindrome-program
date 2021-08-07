@@ -4,7 +4,7 @@ This is a basic vanilla js project.
 
 ## Lesson Learned :
 
-- I learned about stacks and heaps for two hours.
+- I learned about stacks and heaps.
 
 ## Screenshots:
 
